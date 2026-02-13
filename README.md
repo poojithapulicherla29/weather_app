@@ -21,5 +21,5 @@ It allows users to search for a city and view the current weather details.
 2. Press Enter or click the search icon
 3. View the weather information
 
-##Live Website
+## Live Website
 - https://poojithapulicherla29.github.io/weather_app/
