@@ -20,3 +20,6 @@ It allows users to search for a city and view the current weather details.
 1. Enter a city name in the search box
 2. Press Enter or click the search icon
 3. View the weather information
+
+##Live Website
+https://poojithapulicherla29.github.io/weather_app/
