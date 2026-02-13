@@ -22,4 +22,4 @@ It allows users to search for a city and view the current weather details.
 3. View the weather information
 
 ##Live Website
-https://poojithapulicherla29.github.io/weather_app/
+- https://poojithapulicherla29.github.io/weather_app/
